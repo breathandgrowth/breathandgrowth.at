@@ -1,14 +1,21 @@
 {
   "name": "Breathwork",
   "image": "/uploads/projects/breath-and-growth.png",
+  "aspectRatio": "4/3",
   "blocks": [
     {
       "en": {
         "image": "/uploads/projects/breath-and-growth-portrait.jpg",
-        "text": "Breathwork\n",
+        "text": "### Breathwork - Dein Atem ist der Schlüssel zurück zu dir.\n",
         "textPosition": "underneath"
       },
       "_template": "Image"
+    },
+    {
+      "_template": "Text"
+    },
+    {
+      "_template": "Form"
     }
   ]
 }
