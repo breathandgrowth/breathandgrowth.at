@@ -7,7 +7,10 @@
       "en": {
         "image": "/uploads/projects/breath-and-growth-portrait.jpg",
         "text": "### Breathwork - Dein Atem ist der Schlüssel zurück zu dir.\n",
-        "textPosition": "underneath"
+        "textPosition": "underneath",
+        "margin": {
+          "bottom": "2"
+        }
       },
       "_template": "Image"
     },
