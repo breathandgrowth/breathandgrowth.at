@@ -22,6 +22,17 @@
     },
     {
       "_template": "Form"
+    },
+    {
+      "en": {
+        "items": [
+          {
+            "content": "<Image\n  text={<>\n\n  </>}\n  image=\"/uploads/sophienawratil__livingpotential_juliafreidl__150.jpg\"\n/>\n"
+          },
+          {}
+        ]
+      },
+      "_template": "Grid"
     }
   ]
 }
