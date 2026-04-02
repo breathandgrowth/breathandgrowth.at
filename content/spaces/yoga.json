@@ -8,6 +8,16 @@
         "heading": "Yoga"
       },
       "_template": "Heading"
+    },
+    {
+      "en": {
+        "items": [
+          {
+            "content": "<Image\n  text={<>\n\n  </>}\n  image=\"/uploads/IMG_2927.jpg\"\n  aspectRatio=\"3/4\"\n/>\n"
+          }
+        ]
+      },
+      "_template": "Grid"
     }
   ]
 }
