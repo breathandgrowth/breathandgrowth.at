@@ -1,7 +1,7 @@
 {
   "name": "Breathwork",
   "image": "/uploads/sophienawratil__livingpotential_juliafreidl__150.jpg",
-  "aspectRatio": "16/9",
+  "aspectRatio": "1/1",
   "blocks": [
     {
       "_template": "Form"
