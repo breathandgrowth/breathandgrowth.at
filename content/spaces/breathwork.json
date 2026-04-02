@@ -25,6 +25,19 @@
         ]
       },
       "_template": "Grid"
+    },
+    {
+      "en": {
+        "heading": "Ablauf",
+        "as": "h2",
+        "margin": {
+          "top": "4"
+        }
+      },
+      "_template": "Heading"
+    },
+    {
+      "_template": "Grid"
     }
   ]
 }
