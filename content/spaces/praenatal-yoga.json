@@ -3,6 +3,10 @@
   "image": "/uploads/Screenshot%202026-04-01%20115949.png",
   "blocks": [
     {
+      "en": {
+        "heading": "Herzlichen Glückwunsch zu deiner Schwangerschaft und zu diesem ganz besonderen, magischen Ereignis.",
+        "as": "h3"
+      },
       "_template": "Heading"
     },
     {
