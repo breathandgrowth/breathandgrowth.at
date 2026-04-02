@@ -11,7 +11,7 @@
     "links": [
       {
         "label": "Home",
-        "fallbackHref": "/https://www.breathandgrowth.at/"
+        "fallbackHref": "breathandgrowth.at/"
       },
       {
         "label": "Meine Räume",
