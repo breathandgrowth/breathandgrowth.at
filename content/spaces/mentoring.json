@@ -7,6 +7,16 @@
         "heading": "Mentoring"
       },
       "_template": "Heading"
+    },
+    {
+      "en": {
+        "heading": "Starte deine Breath & Growth Mentoring Journey",
+        "as": "h3",
+        "margin": {
+          "top": "-3"
+        }
+      },
+      "_template": "Heading"
     }
   ]
 }
