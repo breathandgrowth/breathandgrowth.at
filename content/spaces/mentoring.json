@@ -17,6 +17,19 @@
         }
       },
       "_template": "Heading"
+    },
+    {
+      "en": {
+        "items": [
+          {
+            "content": "Manchmal spüren wir, dass sich etwas in unserem Leben verändern möchte.\n\nDass da mehr möglich ist – mehr Klarheit, mehr Tiefe, mehr wir selbst sein. Und gleichzeitig wissen wir nicht immer, wo wir anfangen sollen oder wie wir diesen Weg konkret gehen können. In meiner “breath\\&growth Mentoring Journey” begleite ich dich über einen Zeitraum von drei Monaten auf deinem ganz persönlichen Weg.\n\n Es ist eine 1:1 Begleitung für Frauen, die sich weiterentwickeln möchten – beruflich, persönlich oder in einer Phase des Umbruchs und der Neuorientierung. Viele der Frauen, die zu mir kommen, stehen an einem Punkt, an dem sie spüren, dass sie etwas verändern möchten: Vielleicht geht es um eine neue berufliche Richtung, eine Idee, die endlich umgesetzt werden will, oder den Wunsch, mehr Klarheit, Selbstvertrauen und Orientierung im eigenen Leben zu finden. Gleichzeitig kann es auch Themen im privaten Bereich geben – Beziehungen, innere Blockaden oder das Gefühl, sich selbst irgendwo verloren zu haben.\n"
+          },
+          {
+            "content": "<Image\n  text={<>\n\n  </>}\n  image=\"/uploads/DSC_0926.jpg\"\n  aspectRatio=\"3/4\"\n/>\n"
+          }
+        ]
+      },
+      "_template": "Grid"
     }
   ]
 }
