@@ -11,6 +11,16 @@
       "_template": "Heading"
     },
     {
+      "en": {
+        "heading": "Dein Atem ist der Schlüssel zurück zu dir.",
+        "as": "h2",
+        "margin": {
+          "top": "-4"
+        }
+      },
+      "_template": "Heading"
+    },
+    {
       "_template": "Form"
     },
     {
