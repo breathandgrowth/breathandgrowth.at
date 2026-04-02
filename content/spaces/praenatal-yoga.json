@@ -30,9 +30,13 @@
     },
     {
       "en": {
-        "text": ""
+        "items": [
+          {
+            "content": "<Image\n  text={<>\n\n  </>}\n  image=\"/uploads/IMG_4352.jpg\"\n  aspectRatio=\"1/1\"\n  margin={{\n    text: {\n      type: \"root\",\n      children: [\n        { type: \"p\", children: [{ type: \"text\", text: \"\" }], id: \"SD2CIjxj_u\" }\n      ]\n    },\n    margin: {\n      text: {\n        type: \"root\",\n        children: [\n          { type: \"p\", children: [{ type: \"text\", text: \"\" }], id: \"oYYLE4NgOj\" }\n        ]\n      },\n      margin: {\n        text: {\n          type: \"root\",\n          children: [\n            {\n              type: \"p\",\n              children: [{ type: \"text\", text: \"\" }],\n              id: \"pW_9GwVO3Y\"\n            }\n          ]\n        }\n      }\n    }\n  }}\n/>\n"
+          }
+        ]
       },
-      "_template": "Text"
+      "_template": "Grid"
     }
   ]
 }
