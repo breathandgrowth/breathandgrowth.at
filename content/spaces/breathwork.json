@@ -4,6 +4,13 @@
   "aspectRatio": "1/1",
   "blocks": [
     {
+      "en": {
+        "heading": "Breathwork - Dein Atem ist der Schlüssel zurück zu dir.",
+        "as": "h2"
+      },
+      "_template": "Heading"
+    },
+    {
       "_template": "Form"
     },
     {
