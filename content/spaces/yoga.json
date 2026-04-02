@@ -1,4 +1,13 @@
 {
   "name": "Yoga",
-  "image": "/uploads/IMG_2933.jpg"
+  "image": "/uploads/IMG_2933.jpg",
+  "alt": "",
+  "blocks": [
+    {
+      "en": {
+        "heading": "Yoga"
+      },
+      "_template": "Heading"
+    }
+  ]
 }
