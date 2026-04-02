@@ -1,4 +1,12 @@
 {
   "name": "Mentoring",
-  "image": "/uploads/DSC_0926.jpg"
+  "image": "/uploads/DSC_0926.jpg",
+  "blocks": [
+    {
+      "en": {
+        "heading": "Mentoring"
+      },
+      "_template": "Heading"
+    }
+  ]
 }
