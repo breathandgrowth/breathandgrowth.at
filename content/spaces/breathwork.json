@@ -4,23 +4,6 @@
   "aspectRatio": "4/3",
   "blocks": [
     {
-      "en": {
-        "image": "/uploads/projects/breath-and-growth-portrait.jpg",
-        "text": "### Breathwork - Dein Atem ist der Schlüssel zurück zu dir.\n",
-        "textPosition": "underneath",
-        "margin": {
-          "bottom": "2"
-        }
-      },
-      "_template": "Image"
-    },
-    {
-      "en": {
-        "text": "Unser Atem begleitet uns ein Leben lang. Ohne ihn können wir nicht existieren – und doch schenken wir ihm im Alltag oft so wenig Aufmerksamkeit.\n\nDabei steckt in unserem Atem so viel Kraft.\n\nSo viel Potenzial.\n\nSo viel Weisheit.\n\nBreathwork kann uns genau dafür wieder öffnen.\n\nDie Methode des verbundenen Atems macht deinen Atem in deinem Körper intensiv spürbar. Sie kann dich aufwecken, dich in Bewegung bringen und dich wieder mit dem verbinden, was in dir lebendig ist. Mit deiner Kraft. Deiner Essenz. Deinem Potenzial.\n\nOft sind es innere Blockaden, alte Erfahrungen oder tief sitzende Glaubenssätze, die uns davon abhalten, uns wirklich zu zeigen, unseren Weg zu gehen und mit dem Leben in Verbindung zu treten. Mit uns selbst. Mit unseren Mitmenschen. Mit unserer Freude, unserer Liebe und unserer inneren Wahrheit.\n\nIn meinen Breathwork Sessions darfst du dir selbst wieder begegnen.\n\nIn einem sicheren und gehaltenen Raum.\n\nEinem Raum, in dem alles da sein darf – deine Ängste, dein Schmerz, deine Sehnsucht, deine Lebendigkeit.\n\nIch lade dich ein, dir selbst dieses Geschenk zu machen.\n\nZu heilen.\n\nZu wachsen.\n\nLoszulassen.\n\nUnd dich für das zu öffnen, was in dir möglich ist.\n"
-      },
-      "_template": "Text"
-    },
-    {
       "_template": "Form"
     },
     {
