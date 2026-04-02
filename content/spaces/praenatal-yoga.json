@@ -4,6 +4,12 @@
   "blocks": [
     {
       "en": {
+        "heading": "Pränatal Yoga"
+      },
+      "_template": "Heading"
+    },
+    {
+      "en": {
         "heading": "Herzlichen Glückwunsch zu deiner Schwangerschaft und zu diesem ganz besonderen, magischen Ereignis.",
         "as": "h3"
       },
