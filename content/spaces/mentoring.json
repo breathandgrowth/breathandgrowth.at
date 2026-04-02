@@ -27,7 +27,10 @@
           {
             "content": "<Image\n  text={<>\n\n  </>}\n  image=\"/uploads/DSC_0926.jpg\"\n  aspectRatio=\"3/4\"\n/>\n"
           }
-        ]
+        ],
+        "margin": {
+          "bottom": "3"
+        }
       },
       "_template": "Grid"
     },
@@ -40,7 +43,10 @@
           {
             "content": "In diesem Mentoring schauen wir gemeinsam hin. Ich begleite dich nach dem Prinzip:\n\n### Sehen - Verstehen - Handeln\n\nWir nehmen uns Zeit, deine aktuelle Situation wirklich zu erfassen, Zusammenhänge zu verstehen und daraus konkrete, stimmige nächste Schritte zu entwickeln. Dabei entsteht ein Raum, in dem du dich reflektieren, neu ausrichten und ins Tun kommen kannst – in deinem Tempo und auf deine Weise.Die Sessions verbinden Gespräch, Breathwork und – wenn du möchtest – auch eine körperliche Komponente durch Yoga. Dadurch entsteht ein ganzheitlicher Ansatz, der dich nicht nur auf mentaler Ebene begleitet, sondern dich auch wieder stärker mit deinem Körper und deiner inneren Wahrnehmung verbindet. Neben dieser Arbeit bringe ich auch meine beruflichen Erfahrungen ein, insbesondere in den Bereichen persönliche Weiterentwicklung, Growth Mindset, Leadership, Gründung, Ideen umsetzen und Networking. So können wir nicht nur innere Prozesse anschauen, sondern auch ganz konkret an deiner Umsetzung im Außen arbeiten.\n"
           }
-        ]
+        ],
+        "margin": {
+          "bottom": "3"
+        }
       },
       "_template": "Grid"
     },
