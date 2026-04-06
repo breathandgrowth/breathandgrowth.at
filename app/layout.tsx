@@ -23,7 +23,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${sans.variable} ${serif.variable}`}>
       <body style={{ margin: 0 }}>
-        <LanguageInitializer />
+        {/* <LanguageInitializer /> */}
         <Theme>
           <main>{children}</main>
           <Footer />

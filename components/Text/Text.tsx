@@ -5,7 +5,10 @@ import components from "../../tina/components";
 
 export default function Text(props: PageBlocksTextEn) {
   return (
-    <div data-tina-field={tinaField(props, "text")}>
+    <div
+      data-tina-field={tinaField(props, "text")}
+      style={{ whiteSpace: "pre-line" }}
+    >
       <TinaMarkdown content={props.text} components={components} />
     </div>
   );
