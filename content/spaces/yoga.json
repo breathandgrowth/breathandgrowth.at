@@ -37,12 +37,6 @@
         }
       },
       "_template": "Grid"
-    },
-    {
-      "en": {
-        "text": "Hallo, das ist ein Test.\n"
-      },
-      "_template": "Text"
     }
   ]
 }
