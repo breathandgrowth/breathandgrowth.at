@@ -22,7 +22,7 @@
             "content": "Eine Schwangerschaft ist eine ganz besondere Zeit – sowohl beim ersten Kind als auch bei jeder weiteren Schwangerschaft. Sie ist oft voller Vorfreude, Veränderung, neuer Gedanken und Gefühle und bringt auf körperlicher, emotionaler und mentaler Ebene vieles in Bewegung. Gerade deshalb dürfen wir Frauen uns in dieser Zeit besonders gut um uns selbst, unseren Körper und unser Wohlbefinden kümmern und uns bewusst Raum nehmen, um uns mit uns selbst und unserem Baby zu verbinden. Pränatal Yoga bietet dafür einen wunderbaren Raum. Es schenkt dir bewusste Zeit für dich, indem du deinen Körper kräftigsten, Entspannung findest und dich gleichzeitig auf die Geburt vorbereiten kannst. In meinen Einheiten geht es nicht um Leistung oder Perfektion, sondern darum, dich in dieser besonderen Lebensphase liebevoll zu begleiten und zu stärken.\n"
           },
           {
-            "content": "<Image image=\"/uploads/DSCF4892%20(1).jpg\" aspectRatio=\"1/1\" />\n"
+            "content": "<Image\n  image=\"/uploads/IMG_5304.jpg\"\n  aspectRatio=\"1/1\"\n  text={<>\n\n  </>}\n/>\n"
           }
         ]
       },
