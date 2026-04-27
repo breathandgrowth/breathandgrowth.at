@@ -16,6 +16,12 @@
         "text": "Aufgrund meiner Babypause finden aktuell keine Events statt. Bleibe aber über den Newsletter informiert!\n"
       },
       "_template": "Text"
+    },
+    {
+      "en": {
+        "variant": "newsletter"
+      },
+      "_template": "Form"
     }
   ]
 }
