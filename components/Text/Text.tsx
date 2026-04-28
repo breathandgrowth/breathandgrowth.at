@@ -4,6 +4,7 @@ import { TinaMarkdown } from "tinacms/dist/rich-text";
 import components from "../../tina/components";
 
 export default function Text(props: PageBlocksTextEn) {
+  console.log("Text props", props);
   return (
     <div
       data-tina-field={tinaField(props, "text")}

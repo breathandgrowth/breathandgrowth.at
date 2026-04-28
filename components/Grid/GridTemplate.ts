@@ -39,6 +39,7 @@ const fields: Template["fields"] = [
     },
   },
   MarginField,
+  {name: "fullWidth", label: "Full Width Grid", type: "boolean"},
 ];
 
 export default {
