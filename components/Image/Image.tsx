@@ -61,6 +61,7 @@ export default function Image(
                 : placeholders.image
             }
             fill
+            sizes='(max-width: 768px) 100vw, (max-width: 1280px) 92vw, 1200px'
             alt={props.alt || "Image content"}
             role={!props.alt ? "presentation" : undefined}
             style={{

@@ -22,7 +22,7 @@ export default function Grid(props: PageBlocksGridEn) {
         mr={props.margin?.right ?? "0"}
         ml={props.margin?.left ?? "0"}
       >
-        <RadixGrid columns={{ initial: "1", md: "2" }} gap={"4"}>
+        <RadixGrid columns={props.fullWidth ? "1" : { initial: "1", md: "2" }} gap={"4"}>
           {(props.items as PageBlocksGridEnItems[]).map((item, i) => {
             return (
               <div key={i} data-tina-field={tinaField(item)}>

@@ -1,4 +1,4 @@
-import { Text as RadixText, Heading as RadixHeading } from "@radix-ui/themes";
+import { Text as RadixText, Heading as RadixHeading, Box } from "@radix-ui/themes";
 import type { Components } from "tinacms/dist/rich-text";
 import Slideshow from "../components/Slideshow/Slideshow";
 import Form from "../components/Form/Form";
@@ -38,7 +38,7 @@ export default {
     return <Image {...props} />;
   },
   Text: (props: any) => {
-    return <Text {...props} />;
+    return <Text {...props} />
   },
   Slideshow: (props: any) => {
     return <Slideshow {...props} />;
@@ -46,12 +46,14 @@ export default {
   /* Standard components */
   p(props) {
     return (
+      <Box mb={"4"}>
       <RadixText
         size={{ initial: "4", md: "5" }}
         style={{ fontFamily: "var(--font-sans)" }}
       >
         {props?.children}
       </RadixText>
+      </Box>
     );
   },
   span(props) {
